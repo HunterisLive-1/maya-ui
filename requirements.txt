@@ -1,0 +1,9 @@
+PySide6>=6.5.0
+numpy>=1.21.0
+sounddevice>=0.4.4
+psutil>=5.9.0
+GPUtil>=1.4.0
+setuptools>=60.0.0
+wmi>=1.5.1
+pynvml>=11.0.0
+pyaudiowpatch>=0.2.12.8
