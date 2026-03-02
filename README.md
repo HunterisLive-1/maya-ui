@@ -1,5 +1,7 @@
 # Maya AI HUD - Futuristic Desktop Interface
 
+![Maya UI Example](example.png)
+
 A modern, futuristic HUD-style desktop monitoring application with real-time system metrics, audio visualization, and an AI-themed interface.
 
 ## 🚀 Quick Start (One-Click Launch)
